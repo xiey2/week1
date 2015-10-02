@@ -1,4 +1,6 @@
-# week1
+# Week 1
+
+Reading material: http://www.ni.com/white-paper/7588/en/
 
 ### Class exercises
 * Problem 1.4: Metronome
